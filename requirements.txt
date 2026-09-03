@@ -1,0 +1,13 @@
+numpy
+pandas
+opencv-python
+Pillow
+scikit-learn
+joblib
+tqdm
+streamlit
+
+# Optional, for scripts/train_torch.py CNN training. For NVIDIA CUDA wheels,
+# install from requirements-gpu.txt instead of these two generic packages.
+torch
+torchvision
